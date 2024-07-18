@@ -1,4 +1,4 @@
-# Move It Website
+# Move It Website.
 
 Welcome to the Move It Website repository! This project is a practice exercise for creating a responsive website using Bootstrap, HTML, CSS, and JavaScript.
 
